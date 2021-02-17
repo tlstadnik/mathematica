@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Summary:", addition.SumVar)
-	fmt.Println("Subtraction", subtraction.Vars)
+	fmt.Println("Summary:", maths.SumVar)
+	fmt.Println("Subtraction", maths.Vars)
 }
