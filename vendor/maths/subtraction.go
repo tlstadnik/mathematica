@@ -1,6 +1,6 @@
-package substraction
+package subtraction
 
-func substraction() {
+func subtraction() {
 	var Vars uint = 105
 	var Subs = maths.SumVar - Vars
 }
